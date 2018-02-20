@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>BookChapter5.Exercise5_41</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -42,6 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercise5_22.cs" />
+    <Compile Include="Exercise5_18.cs" />
+    <Compile Include="Exercise5_19.cs" />
+    <Compile Include="Exercise5_20.cs" />
+    <Compile Include="Exercise5_23.cs" />
+    <Compile Include="Exercise5_24.cs" />
+    <Compile Include="Exercise5_26.cs" />
+    <Compile Include="Exercise5_29.cs" />
+    <Compile Include="Exercise5_38.cs" />
+    <Compile Include="Exercise5_41.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
